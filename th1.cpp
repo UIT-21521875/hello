@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-int n,p=1;
+int n,p=3;
 cout<<"Nhap n ";
 cin>>n;
 for (int i=1;i<=n;i++)
