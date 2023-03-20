@@ -10,5 +10,6 @@ for (int i=1;i<=n;i++)
 p=p*i;
 }
 cout<<"n! la "<<p;
+cout<<"nmcnpm"
 return 0;
 }
